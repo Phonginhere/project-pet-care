@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "674229650323",
+    "project_id": "imagetest-ea789",
+    "storage_bucket": "imagetest-ea789.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674229650323:android:eb9f305d9669f1b6b49e66",
+        "android_client_info": {
+          "package_name": "com.example.imageview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674229650323-in0rq70gdrbg7vifhs8k19uhqeg6m8m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDdT-rYc7itlOLpGUMWpqNl5wV8iaUEPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674229650323-in0rq70gdrbg7vifhs8k19uhqeg6m8m0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

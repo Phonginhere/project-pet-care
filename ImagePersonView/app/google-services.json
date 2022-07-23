@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "466811371383",
+    "project_id": "imagepersonview",
+    "storage_bucket": "imagepersonview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466811371383:android:af916652d1bde4cc34ab72",
+        "android_client_info": {
+          "package_name": "com.example.imagepersonview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466811371383-bqhqa5pacbn6r14q7f0p5i4ijdr3qpld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuv_mXmjx7dkxWX3R2X6WNiskLGjcQ60Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466811371383-bqhqa5pacbn6r14q7f0p5i4ijdr3qpld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
