@@ -67,10 +67,6 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 launcher.launch("image/*");
-//                Intent intent = new Intent(Intent.ACTION_PICK);
-//                intent.setType("image/*");
-//                intent.putExtra(Intent.EXTRA_ALLOW_MULTIPLE, true);
-//                startActivityForResult(Intent.createChooser(intent, "Select Picture"), PICK_PHOTO_CODE);
             }
         });
     }

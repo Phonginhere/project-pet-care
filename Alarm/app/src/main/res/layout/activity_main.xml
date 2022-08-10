@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/selectedTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="232dp"
+        android:text="08 : 45 PM"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="46dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btn_selected_time"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginHorizontal="26dp"
+        android:layout_marginTop="72dp"
+        android:text="Select Time"
+        android:textSize="26dp"
+        app:layout_constraintTop_toBottomOf="@+id/selectedTime"
+        tools:layout_editor_absoluteX="35dp" />
+
+    <Button
+        android:id="@+id/btn_setAlarm"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginHorizontal="26dp"
+        android:text="Set Time"
+        android:textSize="26dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_cancelAlarm"
+        tools:layout_editor_absoluteX="26dp" />
+
+    <Button
+        android:id="@+id/btn_cancelAlarm"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginHorizontal="26dp"
+        android:layout_marginTop="52dp"
+        android:text="Cancel Time"
+        android:textSize="26dp"
+        app:layout_constraintTop_toBottomOf="@+id/btn_selected_time"
+        tools:layout_editor_absoluteX="35dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

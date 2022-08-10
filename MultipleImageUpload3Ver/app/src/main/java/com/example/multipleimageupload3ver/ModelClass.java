@@ -1,20 +1,22 @@
 package com.example.multipleimageupload3ver;
 
+import android.net.Uri;
+
 public class ModelClass {
-    String imageName;
+    public Uri uri;
 
     public ModelClass() {
     }
 
-    public ModelClass(String imageName) {
-        this.imageName = imageName;
+    public ModelClass(Uri uri, String imageName) {
+        this.uri = uri;
     }
 
-    public String getImageName() {
-        return imageName;
+    public Uri getUri() {
+        return uri;
     }
 
-    public void setImageName(String imageName) {
-        this.imageName = imageName;
+    public void setUri(Uri uri) {
+        this.uri = uri;
     }
 }
