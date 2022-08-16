@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GITHUB/project-pet-care/Navigation/app/src/main/res/drawable/side_nav_bar.xml" value="0.1495" />
+        <entry key="..\:/GITHUB/project-pet-care/Navigation/app/src/main/res/layout/activity_main.xml" value="0.2171875" />
+        <entry key="..\:/GITHUB/project-pet-care/Navigation/app/src/main/res/layout/app_bar_main.xml" value="0.2" />
+        <entry key="..\:/GITHUB/project-pet-care/Navigation/app/src/main/res/layout/content_main.xml" value="0.21297242083758938" />
+        <entry key="..\:/GITHUB/project-pet-care/Navigation/app/src/main/res/layout/fragment_gallery.xml" value="0.2171875" />
+        <entry key="..\:/GITHUB/project-pet-care/Navigation/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/GITHUB/project-pet-care/Navigation/app/src/main/res/layout/fragment_profile.xml" value="0.2171875" />
+        <entry key="..\:/GITHUB/project-pet-care/Navigation/app/src/main/res/layout/fragment_share.xml" value="0.2171875" />
+        <entry key="..\:/GITHUB/project-pet-care/Navigation/app/src/main/res/layout/fragment_slideshow.xml" value="0.2171875" />
+        <entry key="..\:/GITHUB/project-pet-care/Navigation/app/src/main/res/layout/nav_header_main.xml" value="0.2171875" />
+        <entry key="..\:/GITHUB/project-pet-care/Navigation/app/src/main/res/layout/person.xml" value="0.268" />
+        <entry key="..\:/GITHUB/project-pet-care/Navigation/app/src/main/res/menu/activity_main_drawer.xml" value="0.2171875" />
+        <entry key="..\:/GITHUB/project-pet-care/Navigation/app/src/main/res/menu/main.xml" value="0.2171875" />
+        <entry key="..\:/GITHUB/project-pet-care/Navigation/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.268" />
+        <entry key="..\:/GITHUB/project-pet-care/Navigation/app/src/main/res/menu/options_pet_navigation_drawer.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
