@@ -6,6 +6,10 @@
     android:layout_height="match_parent"
     tools:context=".ui.gallery.GalleryFragment">
 
+    <include android:id="@+id/toolbar_breed"
+        layout="@layout/toolbar_navigation"
+        />
+
     <TextView
         android:id="@+id/text_gallery"
         android:layout_width="match_parent"
